@@ -35,8 +35,8 @@ body.dark {
   --font-color-delete: #e76f7b;
 }
 @font-face {
-  font-family: 'Hindi_Font';
-  src: url(../fonts/Hindi_Type.ttf);
+  font-family: 'Manipuri_Font';
+  src: url(../fonts/manipuri_type.ttf);
 }
 
 /* Default CSS Changes */
